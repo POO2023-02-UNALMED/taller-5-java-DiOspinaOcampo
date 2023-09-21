@@ -1,6 +1,6 @@
-package main.java.zooAnimales;
+package zooAnimales;
 
-import main.java.gestion.Zona;
+import gestion.Zona;
 
 public class Animal {
 	private static int totalAnimales = 0;
